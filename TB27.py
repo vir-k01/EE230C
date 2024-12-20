@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from .utils import E_orb1_orb2
+from .overlaps import E_orb1_orb2
 from .data import DATA_TB27
 
 a = 3.12
