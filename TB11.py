@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from ..data.py import DATA_TB11
+from .data.py import DATA_TB11
 
 gamma = np.array([0, 0])
 M = np.array([np.pi/a, -np.pi/3**0.5/a])
