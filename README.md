@@ -6,7 +6,7 @@ There are two solutions to the tight-binding Hamiltonian for monolayer MoS2 impl
 1. following the work of [1] and [2] (housed in TB11.py), which uses the d5 orbitals of Mo and the p3 oribitals of S as the basis set.
 2. a more general TB approach following [3] (housed in TB27.py), which uses the sp3d5 orbitals from Mo and S, totally 27 states in the basis set.
 
-The submitted report for the final is also uploaded here as project_submission.pdf. 
+The self-consistent field code used to simulate the I-V curves is provided in SCF_IV.m The submitted report for the final is also uploaded here as Project_report.pdf. 
 
 
 Biblography:
